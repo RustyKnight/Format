@@ -33,3 +33,4 @@ DerivedData
 Carthage/Build
 Format.xcodeproj/project.xcworkspace/xcuserdata/marmelroy.xcuserdatad/UserInterfaceState.xcuserstate
 Format.xcodeproj/xcuserdata/marmelroy.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+/Format.framework.zip
