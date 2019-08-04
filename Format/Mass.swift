@@ -32,6 +32,6 @@ public enum Mass: NumberFormatter {
     
     /// NSNumberFormatter style
     public var style: Foundation.NumberFormatter.Style? {
-        return .none
+      return Foundation.NumberFormatter.Style.none
     }
 }

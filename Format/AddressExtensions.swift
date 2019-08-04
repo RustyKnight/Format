@@ -18,7 +18,7 @@ public extension CLPlacemark {
    - returns: Formatted address string.
    */
   @available(iOS 9.0, *)
-  public func format() -> String {
+  func format() -> String {
     let address = CNMutablePostalAddress(placemark: self)
     let formatter = CNPostalAddressFormatter()    
     return formatter.string(from: address)
